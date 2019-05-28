@@ -1,5 +1,5 @@
 # Site settings
-title:
+title: 
 email: uniqueyoufitness@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/uyfbasketball" # the subpath of your site, e.g. /blog/
